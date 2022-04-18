@@ -1,0 +1,11 @@
+/* index.css - Shirozii (contact@shiroko.me) - 2022/04/18*/
+/* Description: bad css time */
+
+body {
+  text-align: center;
+}
+
+#title {
+  padding-top: 20%;
+  padding-bottom: -20%;
+}
