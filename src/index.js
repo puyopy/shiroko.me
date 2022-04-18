@@ -4,7 +4,7 @@ const host = window.location.host
 
 function fetchj(path) {
     console.log(host + path)
-    return fetch("http://" + host + path)
+    return fetch("https://" + host + path)
 }
 
 function setPara(text) {
