@@ -1,2 +1,0 @@
-# shiroko.me
-shit site
